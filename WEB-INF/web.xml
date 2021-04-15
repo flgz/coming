@@ -1,0 +1,8 @@
+<web-app>
+
+    <servlet>
+	    <servlet-name>MainServlet</servlet-name> 
+        <servlet-class>MainServlet</servlet-class> 
+    </servlet>
+
+</web-app>
